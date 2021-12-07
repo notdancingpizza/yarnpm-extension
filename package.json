@@ -1,6 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^2.5.1"
+    "clean-webpack-plugin": "^4.0.0",
+    "prettier": "^2.5.1",
+    "uuid": "^8.3.2",
+    "webpack": "^5.65.0",
+    "zip-webpack-plugin": "^4.0.1"
   },
   "name": "yarnpm-extension",
   "version": "0.0.1",
@@ -9,5 +13,8 @@
   "repository": "https://github.com/dancingpizza/yarnpm-extension",
   "author": "Sasha Aryutin <kerdwr@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
 }
