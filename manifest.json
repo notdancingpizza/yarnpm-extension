@@ -10,7 +10,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.npmjs.com/*"],
-      "js": ["bundle.js"],
+      "js": ["index.js"],
       "run_at": "document_idle"
     }
   ],

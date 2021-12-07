@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "prettier": "^2.5.1"
+  },
+  "name": "yarnpm-extension",
+  "version": "0.0.1",
+  "description": "Just changes 'npm i' to 'yarn add'",
+  "main": "index.js",
+  "repository": "https://github.com/dancingpizza/yarnpm-extension",
+  "author": "Sasha Aryutin <kerdwr@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
