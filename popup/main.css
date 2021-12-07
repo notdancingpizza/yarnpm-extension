@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 16px;
+  width: 320px;
+}
+
+* {
+  font-family: "Readex Pro", sans-serif;
+}
+
+a {
+  color: #f86f6d;
+}
+
+a:hover {
+  color: #5e2929;
+}
